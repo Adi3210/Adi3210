@@ -1,4 +1,4 @@
-- 👋 Hi, I’m DestroyCha and this is my github @Adi3210
+- 👋 Hi, I’m an aspiring game developer and this is my github @Adi3210
 - 👀 I’m interested in Gameplay programming through Lua, Unreal Engine or Software Programming through C++ and Dart
 - 🌱 I’m currently learning Luau and Dart, a little of Unreal Engine!
 - 💞️ I’m looking to collaborate on Projects that involve either the aspect of gameplay programming or projects based on Android app development.
